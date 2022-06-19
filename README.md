@@ -1,9 +1,12 @@
 # Hutangin
 
-created by :
-Alif Akbar Kartadinata (2017051049) as Frontend
-M. Yadzka Affan (2017051066) as Hosting
-Rendy Lutfi Prabowo (2017051053) as Backend
+[1] created by
 
-Visit our website :
-https://hutangin.mralifakbar.com
+* Alif Akbar Kartadinata (2017051049) as Hosting
+
+* M. Yadzka Affan (2017051066) as Frontend
+
+* Rendy Lutfi Prabowo (2017051053) as Backend
+
+
+[2]  Visit our website on https://hutangin.mralifakbar.com
